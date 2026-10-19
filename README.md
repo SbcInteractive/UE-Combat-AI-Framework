@@ -1,3 +1,5 @@
+![Unreal Engine Blueprints](https://img.shields.io/badge/Unreal%20Engine-Blueprints-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 # Unreal Engine 5 - Advanced AI & Combat System
 
 A modular Third-Person Combat and Enemy AI system built in Unreal Engine. This project demonstrates core gameplay mechanics, AI perception state machines, custom line-trace combat logic, and real-time UI integration.
